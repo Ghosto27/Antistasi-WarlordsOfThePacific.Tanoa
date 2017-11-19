@@ -1,3 +1,5 @@
+# Antistasi - Warlords of the Pacific
+
 My mod list http://steamcommunity.com/sharedfiles/filedetails/?id=1204069946
 
 * Reworked medical system. No need medic slot for heavy injured
