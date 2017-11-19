@@ -1,12 +1,13 @@
 My mod list http://steamcommunity.com/sharedfiles/filedetails/?id=1204069946
 
-* Reworked medical system. No need medic slot for heavy injured 
-* Changed parametres for open new items 
+* Reworked medical system. No need medic slot for heavy injured
+* Changed parametres for open new items
 * Changed condition for FastTravel\BuyVehicle\RecruitSoldiers
 * Added Duda Advanced Towing
-Our community https://discord.me/vzvod/ 
 
-Site - http://vzvodteam.ru/ 
+Our community https://discord.me/vzvod/
+
+Site - http://vzvodteam.ru/
 
 TeamSpeak - ts.vzvodteam.ru
 
